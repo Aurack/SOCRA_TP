@@ -1,0 +1,5 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+socra-app,com.epita.socra.app.tools,ConsoleAdapter,17,0,0,0,5,0,3,0,3,0
+socra-app,com.epita.socra.app,Int_to_roman,150,0,4,0,14,0,4,0,2,0
+socra-app,com.epita.socra.app,Roman_to_int,101,0,20,0,29,0,13,0,3,0
+socra-app,com.epita.socra.app,App,66,0,4,0,21,0,6,0,4,0

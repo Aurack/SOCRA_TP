@@ -1,0 +1,5 @@
+com/epita/socra/app/Int_to_roman.class
+com/epita/socra/app/tools/ConsoleAdapter.class
+com/epita/socra/app/tools/IOAdapter.class
+com/epita/socra/app/App.class
+com/epita/socra/app/Roman_to_int.class
